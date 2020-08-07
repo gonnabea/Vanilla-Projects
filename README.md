@@ -8,21 +8,21 @@
 
 ### 기본이 되는 바닐라 자바스크립트 실력을 탄탄히 하기 위함입니다. 
 
--[x] https://gonnabea.github.io/form-validator/
--[x] https://gonnabea.github.io/Movie-Seat-Booking/
--[x] https://gonnabea.github.io/video-player/
--[x] https://gonnabea.github.io/Exchange-Rate/
--[x] https://gonnabea.github.io/Dom-Array-Methods/
--[x] https://gonnabea.github.io/Menu-Slider-and-Modal/
--[x] https://gonnabea.github.io/hangman-game/
--[x] https://gonnabea.github.io/expense-tracker/
--[x] https://gonnabea.github.io/typing-game/
--[x] https://gonnabea.github.io/music-player/
--[x] https://gonnabea.github.io/speech-text-reader/
--[x] https://gonnabea.github.io/memory-card/
--[x] https://gonnabea.github.io/relaxer-app/.
--[x] https://gonnabea.github.io/breakout-game/
--[x] https://gonnabea.github.io/sortable-list/
+- [x] https://gonnabea.github.io/form-validator/
+- [x] https://gonnabea.github.io/Movie-Seat-Booking/
+- [x] https://gonnabea.github.io/video-player/
+- [x] https://gonnabea.github.io/Exchange-Rate/
+- [x] https://gonnabea.github.io/Dom-Array-Methods/
+- [x] https://gonnabea.github.io/Menu-Slider-and-Modal/
+- [x] https://gonnabea.github.io/hangman-game/
+- [x] https://gonnabea.github.io/expense-tracker/
+- [x] https://gonnabea.github.io/typing-game/
+- [x] https://gonnabea.github.io/music-player/
+- [x] https://gonnabea.github.io/speech-text-reader/
+- [x] https://gonnabea.github.io/memory-card/
+- [x] https://gonnabea.github.io/relaxer-app/.
+- [x] https://gonnabea.github.io/breakout-game/
+- [x] https://gonnabea.github.io/sortable-list/
 
 ## 후기 
 
