@@ -8,37 +8,35 @@
 
 ### 기본이 되는 바닐라 자바스크립트 실력을 탄탄히 하기 위함입니다. 
 
-- [x] [1](gonnabea.github.io/form-validator/)  
+- [x] [1](https://gonnabea.github.io/Form-Validator/)  
 
 - [x] [2](https://gonnabea.github.io/Movie-Seat-Booking/)  
 
-- [x] [3](gonnabea.github.io/video-player/)  
+- [x] [3](https://gonnabea.github.io/Exchange-Rate/)  
 
-- [x] [4](https://gonnabea.github.io/Exchange-Rate/)  
+- [x] [4](https://gonnabea.github.io/Dom-Array-Methods/)  
 
-- [x] [5](https://gonnabea.github.io/Dom-Array-Methods/)  
+- [x] [5](https://gonnabea.github.io/Menu-Slider-and-Modal/)  
 
-- [x] [6](https://gonnabea.github.io/Menu-Slider-and-Modal/)  
+- [x] [6](https://gonnabea.github.io/Hangman-Game/)  
 
-- [x] [7](gonnabea.github.io/hangman-game/)  
+- [x] [7](https://gonnabea.github.io/Expense-Tracker/)  
 
-- [x] [8](gonnabea.github.io/expense-tracker/)  
+- [x] [8](https://gonnabea.github.io/Typing-Game/)  
 
-- [x] [9](gonnabea.github.io/typing-game/)  
+- [x] [9](https://gonnabea.github.io/Music-Player/)  
 
-- [x] [10](gonnabea.github.io/music-player/)  
+- [x] [10](https://gonnabea.github.io/Speech-Text-Reader/)  
 
-- [x] [11](gonnabea.github.io/speech-text-reader/)  
+- [x] [11](https://gonnabea.github.io/Memory-Card/)  
 
-- [x] [12](gonnabea.github.io/memory-card/)  
+- [x] [12](https://gonnabea.github.io/Relaxer-App/)  
 
-- [x] [13](gonnabea.github.io/relaxer-app/.)  
+- [x] [13](https://gonnabea.github.io/Breakout-Game/)  
 
-- [x] [14](gonnabea.github.io/breakout-game/)  
+- [x] [14](https://gonnabea.github.io/Sortable-List/)  
 
-- [x] [15](gonnabea.github.io/sortable-list/)  
-
-- [x] [16](gonnabea.github.io/lylics-search/)
+- [x] [15](https://gonnabea.github.io/Lylics-Search/)
 
 ## 후기 
 
